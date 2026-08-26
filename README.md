@@ -1,4 +1,4 @@
-![logo](https://github.com/Code-X-karan/Code-X-Karan/blob/main/final%20banner.png)
+<!--![logo](https://github.com/Code-X-karan/Code-X-Karan/blob/main/final%20banner.png)-->
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
 <h3 align="center">Passionate software developer from India, focused on building efficient PC applications, with a growing expertise in the MERN stack and a strong interest in Linux systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif"> 
